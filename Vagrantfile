@@ -33,6 +33,5 @@ Vagrant.configure("2") do |config|
           ip r add default via 10.0.0.10
       SHELL
     end
-    
+
   end
-  

@@ -1,5 +1,0 @@
-- name: Instalamos php y sus utilidades
-  apt:
-    pkg:
-      - php
-      - php-fpm
