@@ -12,6 +12,6 @@ virtualhosts:
       documentroot: /var/www/pagina2
       errorlog: error_example2
       accesslog: access_example2
-  - name: rm-vhost
-      name: pagina2
+rm-vhost:
+  - name: pagina2
 
